@@ -1,0 +1,4238 @@
+{
+  "Accounts": [
+    {
+      "year": "1994",
+      "file": "Accounts/1994.js",
+      "var": "Q_ACCOUNTS_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Accounts/1995.js",
+      "var": "Q_ACCOUNTS_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Accounts/1997.js",
+      "var": "Q_ACCOUNTS_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Accounts/1998.js",
+      "var": "Q_ACCOUNTS_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Accounts/1999.js",
+      "var": "Q_ACCOUNTS_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Accounts/2000.js",
+      "var": "Q_ACCOUNTS_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Accounts/2001.js",
+      "var": "Q_ACCOUNTS_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Accounts/2002.js",
+      "var": "Q_ACCOUNTS_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Accounts/2003.js",
+      "var": "Q_ACCOUNTS_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Accounts/2004.js",
+      "var": "Q_ACCOUNTS_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Accounts/2005.js",
+      "var": "Q_ACCOUNTS_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Accounts/2006.js",
+      "var": "Q_ACCOUNTS_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Accounts/2007.js",
+      "var": "Q_ACCOUNTS_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Accounts/2008.js",
+      "var": "Q_ACCOUNTS_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Accounts/2009.js",
+      "var": "Q_ACCOUNTS_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Accounts/2010.js",
+      "var": "Q_ACCOUNTS_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Accounts/2011.js",
+      "var": "Q_ACCOUNTS_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Accounts/2012.js",
+      "var": "Q_ACCOUNTS_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Accounts/2013.js",
+      "var": "Q_ACCOUNTS_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Accounts/2014.js",
+      "var": "Q_ACCOUNTS_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Accounts/2015.js",
+      "var": "Q_ACCOUNTS_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Accounts/2016.js",
+      "var": "Q_ACCOUNTS_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Accounts/2017_Model_I.js",
+      "var": "Q_ACCOUNTS_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Accounts/2017_Model_II.js",
+      "var": "Q_ACCOUNTS_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Accounts/2018_Model_I.js",
+      "var": "Q_ACCOUNTS_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Accounts/2018_Model_II.js",
+      "var": "Q_ACCOUNTS_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Accounts/2019_Model_I.js",
+      "var": "Q_ACCOUNTS_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Accounts/2019_Model_II.js",
+      "var": "Q_ACCOUNTS_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Accounts/2020_Model_I.js",
+      "var": "Q_ACCOUNTS_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Accounts/2020_Model_II.js",
+      "var": "Q_ACCOUNTS_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Accounts/2021_Model_I.js",
+      "var": "Q_ACCOUNTS_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Accounts/2021_Model_II.js",
+      "var": "Q_ACCOUNTS_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Accounts/2022_Model_I.js",
+      "var": "Q_ACCOUNTS_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Accounts/2022_Model_II.js",
+      "var": "Q_ACCOUNTS_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Accounts/2023_Model_I.js",
+      "var": "Q_ACCOUNTS_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Accounts/2023_Model_II.js",
+      "var": "Q_ACCOUNTS_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Accounts/2024_Model_I.js",
+      "var": "Q_ACCOUNTS_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Accounts/2024_Model_II.js",
+      "var": "Q_ACCOUNTS_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Accounts/2025_Model_I.js",
+      "var": "Q_ACCOUNTS_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Accounts/2025_Model_II.js",
+      "var": "Q_ACCOUNTS_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Agriculture": [
+    {
+      "year": "2013",
+      "file": "Agriculture/2013.js",
+      "var": "Q_AGRICULTURE_2013",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Agriculture/2015.js",
+      "var": "Q_AGRICULTURE_2015",
+      "count": 50
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Agriculture/2018_Model_I.js",
+      "var": "Q_AGRICULTURE_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Agriculture/2019_Model_I.js",
+      "var": "Q_AGRICULTURE_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Agriculture/2019_Model_II.js",
+      "var": "Q_AGRICULTURE_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Agriculture/2020_Model_I.js",
+      "var": "Q_AGRICULTURE_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Agriculture/2020_Model_II.js",
+      "var": "Q_AGRICULTURE_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Agriculture/2021_Model_I.js",
+      "var": "Q_AGRICULTURE_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Agriculture/2021_Model_II.js",
+      "var": "Q_AGRICULTURE_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Agriculture/2022_Model_I.js",
+      "var": "Q_AGRICULTURE_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Agriculture/2022_Model_II.js",
+      "var": "Q_AGRICULTURE_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Agriculture/2023_Model_I.js",
+      "var": "Q_AGRICULTURE_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Agriculture/2023_Model_II.js",
+      "var": "Q_AGRICULTURE_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Agriculture/2024_Model_I.js",
+      "var": "Q_AGRICULTURE_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Agriculture/2024_Model_II.js",
+      "var": "Q_AGRICULTURE_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Agriculture/2025_Model_I.js",
+      "var": "Q_AGRICULTURE_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Modell II",
+      "file": "Agriculture/2025_Modell_II.js",
+      "var": "Q_AGRICULTURE_2025_MODELL_II",
+      "count": 40
+    }
+  ],
+  "Arabic": [
+    {
+      "year": "2010",
+      "file": "Arabic/2010.js",
+      "var": "Q_ARABIC_2010",
+      "count": 50
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Arabic/2025_Model_I.js",
+      "var": "Q_ARABIC_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Arabic/2025_Model_II.js",
+      "var": "Q_ARABIC_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Biology": [
+    {
+      "year": "1992",
+      "file": "Biology/1992.js",
+      "var": "Q_BIOLOGY_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Biology/1993.js",
+      "var": "Q_BIOLOGY_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Biology/1994.js",
+      "var": "Q_BIOLOGY_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Biology/1995.js",
+      "var": "Q_BIOLOGY_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Biology/1997.js",
+      "var": "Q_BIOLOGY_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Biology/1998.js",
+      "var": "Q_BIOLOGY_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Biology/1999.js",
+      "var": "Q_BIOLOGY_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Biology/2000.js",
+      "var": "Q_BIOLOGY_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Biology/2001.js",
+      "var": "Q_BIOLOGY_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Biology/2002.js",
+      "var": "Q_BIOLOGY_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Biology/2003.js",
+      "var": "Q_BIOLOGY_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Biology/2004.js",
+      "var": "Q_BIOLOGY_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Biology/2005.js",
+      "var": "Q_BIOLOGY_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Biology/2006.js",
+      "var": "Q_BIOLOGY_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Biology/2007.js",
+      "var": "Q_BIOLOGY_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Biology/2008.js",
+      "var": "Q_BIOLOGY_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Biology/2009.js",
+      "var": "Q_BIOLOGY_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Biology/2010.js",
+      "var": "Q_BIOLOGY_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Biology/2011.js",
+      "var": "Q_BIOLOGY_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Biology/2012.js",
+      "var": "Q_BIOLOGY_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Biology/2013.js",
+      "var": "Q_BIOLOGY_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Biology/2014.js",
+      "var": "Q_BIOLOGY_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Biology/2015.js",
+      "var": "Q_BIOLOGY_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Biology/2016.js",
+      "var": "Q_BIOLOGY_2016",
+      "count": 50
+    },
+    {
+      "year": "2017-Model-I",
+      "file": "Biology/2017_Model_I.js",
+      "var": "Q_BIOLOGY_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017-Model-II",
+      "file": "Biology/2017_Model_II.js",
+      "var": "Q_BIOLOGY_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-I",
+      "file": "Biology/2018_Model_I.js",
+      "var": "Q_BIOLOGY_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-II",
+      "file": "Biology/2018_Model_II.js",
+      "var": "Q_BIOLOGY_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-III",
+      "file": "Biology/2018_Model_III.js",
+      "var": "Q_BIOLOGY_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019-Model-I",
+      "file": "Biology/2019_Model_I.js",
+      "var": "Q_BIOLOGY_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019-Model-II",
+      "file": "Biology/2019_Model_II.js",
+      "var": "Q_BIOLOGY_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020-Model-I",
+      "file": "Biology/2020_Model_I.js",
+      "var": "Q_BIOLOGY_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020-Model-II",
+      "file": "Biology/2020_Model_II.js",
+      "var": "Q_BIOLOGY_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021-Model-I",
+      "file": "Biology/2021_Model_I.js",
+      "var": "Q_BIOLOGY_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021-Model-II",
+      "file": "Biology/2021_Model_II.js",
+      "var": "Q_BIOLOGY_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-I",
+      "file": "Biology/2022_Model_I.js",
+      "var": "Q_BIOLOGY_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-II",
+      "file": "Biology/2022_Model_II.js",
+      "var": "Q_BIOLOGY_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-III",
+      "file": "Biology/2022_Model_III.js",
+      "var": "Q_BIOLOGY_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-IV",
+      "file": "Biology/2022_Model_IV.js",
+      "var": "Q_BIOLOGY_2022_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-V",
+      "file": "Biology/2022_Model_V.js",
+      "var": "Q_BIOLOGY_2022_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Biology/2023_Model_II.js",
+      "var": "Q_BIOLOGY_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-I",
+      "file": "Biology/2023_Model_I.js",
+      "var": "Q_BIOLOGY_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-III",
+      "file": "Biology/2023_Model_III.js",
+      "var": "Q_BIOLOGY_2023_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-IV",
+      "file": "Biology/2023_Model_IV.js",
+      "var": "Q_BIOLOGY_2023_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-V",
+      "file": "Biology/2023_Model_V.js",
+      "var": "Q_BIOLOGY_2023_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Biology/2024_Model_II.js",
+      "var": "Q_BIOLOGY_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024-Model-I",
+      "file": "Biology/2024_Model_I.js",
+      "var": "Q_BIOLOGY_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Biology/2025_Model_I.js",
+      "var": "Q_BIOLOGY_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Biology/2025_Model_II.js",
+      "var": "Q_BIOLOGY_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "CRK": [
+    {
+      "year": "1992",
+      "file": "CRK/1992.js",
+      "var": "Q_CRK_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "CRK/1993.js",
+      "var": "Q_CRK_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "CRK/1994.js",
+      "var": "Q_CRK_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "CRK/1995.js",
+      "var": "Q_CRK_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "CRK/1997.js",
+      "var": "Q_CRK_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "CRK/1998.js",
+      "var": "Q_CRK_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "CRK/1999.js",
+      "var": "Q_CRK_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "CRK/2000.js",
+      "var": "Q_CRK_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "CRK/2001.js",
+      "var": "Q_CRK_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "CRK/2002.js",
+      "var": "Q_CRK_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "CRK/2003.js",
+      "var": "Q_CRK_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "CRK/2004.js",
+      "var": "Q_CRK_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "CRK/2005.js",
+      "var": "Q_CRK_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "CRK/2006.js",
+      "var": "Q_CRK_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "CRK/2007.js",
+      "var": "Q_CRK_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "CRK/2008.js",
+      "var": "Q_CRK_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "CRK/2009.js",
+      "var": "Q_CRK_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "CRK/2010.js",
+      "var": "Q_CRK_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "CRK/2011.js",
+      "var": "Q_CRK_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "CRK/2012.js",
+      "var": "Q_CRK_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "CRK/2013.js",
+      "var": "Q_CRK_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "CRK/2014.js",
+      "var": "Q_CRK_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "CRK/2015.js",
+      "var": "Q_CRK_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "CRK/2016.js",
+      "var": "Q_CRK_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "CRK/2017_Model_I.js",
+      "var": "Q_CRK_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "CRK/2017_Model_II.js",
+      "var": "Q_CRK_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "CRK/2018_Model_I.js",
+      "var": "Q_CRK_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "CRK/2018_Model_II.js",
+      "var": "Q_CRK_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model III",
+      "file": "CRK/2018_Model_III.js",
+      "var": "Q_CRK_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "CRK/2019_Model_I.js",
+      "var": "Q_CRK_2019_MODEL_I",
+      "count": 56
+    },
+    {
+      "year": "2019 Model II",
+      "file": "CRK/2019_Model_II.js",
+      "var": "Q_CRK_2019_MODEL_II",
+      "count": 56
+    },
+    {
+      "year": "2020 Model I",
+      "file": "CRK/2020_Model_I.js",
+      "var": "Q_CRK_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "CRK/2020_Model_II.js",
+      "var": "Q_CRK_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "CRK/2021_Model_I.js",
+      "var": "Q_CRK_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "CRK/2021_Model_II.js",
+      "var": "Q_CRK_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "CRK/2022_Model_I.js",
+      "var": "Q_CRK_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "CRK/2022_Model_II.js",
+      "var": "Q_CRK_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model III",
+      "file": "CRK/2022_Model_III.js",
+      "var": "Q_CRK_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "CRK/2023_Model_I.js",
+      "var": "Q_CRK_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "CRK/2023_Model_II.js",
+      "var": "Q_CRK_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "CRK/2024_Model_I.js",
+      "var": "Q_CRK_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "CRK/2024_Model_II.js",
+      "var": "Q_CRK_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "CRK/2025_Model_I.js",
+      "var": "Q_CRK_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "CRK/2025_Model_II.js",
+      "var": "Q_CRK_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Chemistry": [
+    {
+      "year": "1992",
+      "file": "Chemistry/1992.js",
+      "var": "Q_CHEMISTRY_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Chemistry/1993.js",
+      "var": "Q_CHEMISTRY_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Chemistry/1994.js",
+      "var": "Q_CHEMISTRY_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Chemistry/1995.js",
+      "var": "Q_CHEMISTRY_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Chemistry/1997.js",
+      "var": "Q_CHEMISTRY_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Chemistry/1998.js",
+      "var": "Q_CHEMISTRY_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Chemistry/1999.js",
+      "var": "Q_CHEMISTRY_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Chemistry/2000.js",
+      "var": "Q_CHEMISTRY_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Chemistry/2001.js",
+      "var": "Q_CHEMISTRY_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Chemistry/2002.js",
+      "var": "Q_CHEMISTRY_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Chemistry/2003.js",
+      "var": "Q_CHEMISTRY_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Chemistry/2004.js",
+      "var": "Q_CHEMISTRY_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Chemistry/2005.js",
+      "var": "Q_CHEMISTRY_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Chemistry/2006.js",
+      "var": "Q_CHEMISTRY_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Chemistry/2007.js",
+      "var": "Q_CHEMISTRY_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Chemistry/2008.js",
+      "var": "Q_CHEMISTRY_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Chemistry/2009.js",
+      "var": "Q_CHEMISTRY_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Chemistry/2010.js",
+      "var": "Q_CHEMISTRY_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Chemistry/2011.js",
+      "var": "Q_CHEMISTRY_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Chemistry/2012.js",
+      "var": "Q_CHEMISTRY_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Chemistry/2013.js",
+      "var": "Q_CHEMISTRY_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Chemistry/2014.js",
+      "var": "Q_CHEMISTRY_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Chemistry/2015.js",
+      "var": "Q_CHEMISTRY_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Chemistry/2016.js",
+      "var": "Q_CHEMISTRY_2016",
+      "count": 50
+    },
+    {
+      "year": "2017-Model-I",
+      "file": "Chemistry/2017_Model_I.js",
+      "var": "Q_CHEMISTRY_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017-Model-II",
+      "file": "Chemistry/2017_Model_II.js",
+      "var": "Q_CHEMISTRY_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-I",
+      "file": "Chemistry/2018_Model_I.js",
+      "var": "Q_CHEMISTRY_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-II",
+      "file": "Chemistry/2018_Model_II.js",
+      "var": "Q_CHEMISTRY_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018-Model-III",
+      "file": "Chemistry/2018_Model_III.js",
+      "var": "Q_CHEMISTRY_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019-Model-I",
+      "file": "Chemistry/2019_Model_I.js",
+      "var": "Q_CHEMISTRY_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019-Model-II",
+      "file": "Chemistry/2019_Model_II.js",
+      "var": "Q_CHEMISTRY_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020-Model-I",
+      "file": "Chemistry/2020_Model_I.js",
+      "var": "Q_CHEMISTRY_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020-Model-II",
+      "file": "Chemistry/2020_Model_II.js",
+      "var": "Q_CHEMISTRY_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021-Model-I",
+      "file": "Chemistry/2021_Model_I.js",
+      "var": "Q_CHEMISTRY_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021-Model-II",
+      "file": "Chemistry/2021_Model_II.js",
+      "var": "Q_CHEMISTRY_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-I",
+      "file": "Chemistry/2022_Model_I.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-II",
+      "file": "Chemistry/2022_Model_II.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-III",
+      "file": "Chemistry/2022_Model_III.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-IV",
+      "file": "Chemistry/2022_Model_IV.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-V",
+      "file": "Chemistry/2022_Model_V.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2022-Model-VI",
+      "file": "Chemistry/2022_Model_VI.js",
+      "var": "Q_CHEMISTRY_2022_MODEL_VI",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-I",
+      "file": "Chemistry/2023_Model_I.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-II",
+      "file": "Chemistry/2023_Model_II.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-III",
+      "file": "Chemistry/2023_Model_III.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-IV",
+      "file": "Chemistry/2023_Model_IV.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-V",
+      "file": "Chemistry/2023_Model_V.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2023-Model-VI",
+      "file": "Chemistry/2023_Model_VI.js",
+      "var": "Q_CHEMISTRY_2023_MODEL_VI",
+      "count": 40
+    },
+    {
+      "year": "2024-Model-I",
+      "file": "Chemistry/2024_Model_I.js",
+      "var": "Q_CHEMISTRY_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024-Model-II",
+      "file": "Chemistry/2024_Model_II.js",
+      "var": "Q_CHEMISTRY_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Chemistry/2025_Model_I.js",
+      "var": "Q_CHEMISTRY_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Chemistry/2025_Model_II.js",
+      "var": "Q_CHEMISTRY_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Commerce": [
+    {
+      "year": "1994",
+      "file": "Commerce/1994.js",
+      "var": "Q_COMMERCE_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Commerce/1995.js",
+      "var": "Q_COMMERCE_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Commerce/1997.js",
+      "var": "Q_COMMERCE_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Commerce/1998.js",
+      "var": "Q_COMMERCE_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Commerce/1999.js",
+      "var": "Q_COMMERCE_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Commerce/2000.js",
+      "var": "Q_COMMERCE_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Commerce/2001.js",
+      "var": "Q_COMMERCE_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Commerce/2002.js",
+      "var": "Q_COMMERCE_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Commerce/2003.js",
+      "var": "Q_COMMERCE_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Commerce/2004.js",
+      "var": "Q_COMMERCE_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Commerce/2005.js",
+      "var": "Q_COMMERCE_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Commerce/2006.js",
+      "var": "Q_COMMERCE_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Commerce/2007.js",
+      "var": "Q_COMMERCE_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Commerce/2008.js",
+      "var": "Q_COMMERCE_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Commerce/2009.js",
+      "var": "Q_COMMERCE_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Commerce/2010.js",
+      "var": "Q_COMMERCE_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Commerce/2011.js",
+      "var": "Q_COMMERCE_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Commerce/2012.js",
+      "var": "Q_COMMERCE_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Commerce/2013.js",
+      "var": "Q_COMMERCE_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Commerce/2014.js",
+      "var": "Q_COMMERCE_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Commerce/2015.js",
+      "var": "Q_COMMERCE_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Commerce/2016.js",
+      "var": "Q_COMMERCE_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Commerce/2017_Model_I.js",
+      "var": "Q_COMMERCE_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Commerce/2017_Model_II.js",
+      "var": "Q_COMMERCE_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Commerce/2018_Model_I.js",
+      "var": "Q_COMMERCE_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Commerce/2018_Model_II.js",
+      "var": "Q_COMMERCE_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Commerce/2019_Model_I.js",
+      "var": "Q_COMMERCE_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Commerce/2019_Model_II.js",
+      "var": "Q_COMMERCE_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Commerce/2020_Model_I.js",
+      "var": "Q_COMMERCE_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Commerce/2020_Model_II.js",
+      "var": "Q_COMMERCE_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Commerce/2021_Model_I.js",
+      "var": "Q_COMMERCE_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Commerce/2021_Model_II.js",
+      "var": "Q_COMMERCE_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Commerce/2022_Model_I.js",
+      "var": "Q_COMMERCE_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Commerce/2022_Model_II.js",
+      "var": "Q_COMMERCE_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Commerce/2023_Model_I.js",
+      "var": "Q_COMMERCE_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Commerce/2023_Model_II.js",
+      "var": "Q_COMMERCE_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Commerce/2024_Model_I.js",
+      "var": "Q_COMMERCE_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Commerce/2024_Model_II.js",
+      "var": "Q_COMMERCE_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Commerce/2025_Model_I.js",
+      "var": "Q_COMMERCE_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Commerce/2025_Model_II.js",
+      "var": "Q_COMMERCE_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Computer Studies": [
+    {
+      "year": "2022 Model I",
+      "file": "Computer_Studies/2022_Model_I.js",
+      "var": "Q_COMPUTER_STUDIES_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Computer_Studies/2022_Model_II.js",
+      "var": "Q_COMPUTER_STUDIES_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model III",
+      "file": "Computer_Studies/2022_Model_III.js",
+      "var": "Q_COMPUTER_STUDIES_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2022 Model IV",
+      "file": "Computer_Studies/2022_Model_IV.js",
+      "var": "Q_COMPUTER_STUDIES_2022_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2022 Model V",
+      "file": "Computer_Studies/2022_Model_V.js",
+      "var": "Q_COMPUTER_STUDIES_2022_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Computer_Studies/2023_Model_I.js",
+      "var": "Q_COMPUTER_STUDIES_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Computer_Studies/2023_Model_II.js",
+      "var": "Q_COMPUTER_STUDIES_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Computer_Studies/2024_Model_I.js",
+      "var": "Q_COMPUTER_STUDIES_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Computer_Studies/2024_Model_II.js",
+      "var": "Q_COMPUTER_STUDIES_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Computer_Studies/2025_Model_I.js",
+      "var": "Q_COMPUTER_STUDIES_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Computer_Studies/2025_Model_II.js",
+      "var": "Q_COMPUTER_STUDIES_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Economics": [
+    {
+      "year": "1989",
+      "file": "Economics/1989.js",
+      "var": "Q_ECONOMICS_1989",
+      "count": 50
+    },
+    {
+      "year": "1990",
+      "file": "Economics/1990.js",
+      "var": "Q_ECONOMICS_1990",
+      "count": 50
+    },
+    {
+      "year": "1991",
+      "file": "Economics/1991.js",
+      "var": "Q_ECONOMICS_1991",
+      "count": 50
+    },
+    {
+      "year": "1992",
+      "file": "Economics/1992.js",
+      "var": "Q_ECONOMICS_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Economics/1993.js",
+      "var": "Q_ECONOMICS_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Economics/1994.js",
+      "var": "Q_ECONOMICS_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Economics/1995.js",
+      "var": "Q_ECONOMICS_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Economics/1997.js",
+      "var": "Q_ECONOMICS_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Economics/1998.js",
+      "var": "Q_ECONOMICS_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Economics/1999.js",
+      "var": "Q_ECONOMICS_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Economics/2000.js",
+      "var": "Q_ECONOMICS_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Economics/2001.js",
+      "var": "Q_ECONOMICS_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Economics/2002.js",
+      "var": "Q_ECONOMICS_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Economics/2003.js",
+      "var": "Q_ECONOMICS_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Economics/2004.js",
+      "var": "Q_ECONOMICS_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Economics/2005.js",
+      "var": "Q_ECONOMICS_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Economics/2006.js",
+      "var": "Q_ECONOMICS_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Economics/2007.js",
+      "var": "Q_ECONOMICS_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Economics/2008.js",
+      "var": "Q_ECONOMICS_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Economics/2009.js",
+      "var": "Q_ECONOMICS_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Economics/2010.js",
+      "var": "Q_ECONOMICS_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Economics/2011.js",
+      "var": "Q_ECONOMICS_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Economics/2012.js",
+      "var": "Q_ECONOMICS_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Economics/2013.js",
+      "var": "Q_ECONOMICS_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Economics/2014.js",
+      "var": "Q_ECONOMICS_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Economics/2015.js",
+      "var": "Q_ECONOMICS_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Economics/2016.js",
+      "var": "Q_ECONOMICS_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Economics/2017_Model_I.js",
+      "var": "Q_ECONOMICS_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Economics/2017_Model_II.js",
+      "var": "Q_ECONOMICS_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Economics/2018_Model_I.js",
+      "var": "Q_ECONOMICS_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Economics/2018_Model_II.js",
+      "var": "Q_ECONOMICS_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Economics/2019_Model_I.js",
+      "var": "Q_ECONOMICS_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Economics/2019_Model_II.js",
+      "var": "Q_ECONOMICS_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Economics/2020_Model_I.js",
+      "var": "Q_ECONOMICS_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Economics/2020_Model_II.js",
+      "var": "Q_ECONOMICS_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Economics/2021_Model_I.js",
+      "var": "Q_ECONOMICS_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Economics/2021_Model_II.js",
+      "var": "Q_ECONOMICS_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Economics/2022_Model_I.js",
+      "var": "Q_ECONOMICS_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Economics/2022_Model_II.js",
+      "var": "Q_ECONOMICS_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Economics/2023_Model_I.js",
+      "var": "Q_ECONOMICS_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Economics/2023_Model_II.js",
+      "var": "Q_ECONOMICS_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Economics/2024_Model_I.js",
+      "var": "Q_ECONOMICS_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Economics/2024_Model_II.js",
+      "var": "Q_ECONOMICS_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Economics/2025_Model_I.js",
+      "var": "Q_ECONOMICS_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Economics/2025_Model_II.js",
+      "var": "Q_ECONOMICS_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "English": [
+    {
+      "year": "1992",
+      "file": "English/1992.js",
+      "var": "Q_ENGLISH_1992",
+      "count": 100
+    },
+    {
+      "year": "1993",
+      "file": "English/1993.js",
+      "var": "Q_ENGLISH_1993",
+      "count": 100
+    },
+    {
+      "year": "1994",
+      "file": "English/1994.js",
+      "var": "Q_ENGLISH_1994",
+      "count": 100
+    },
+    {
+      "year": "1995",
+      "file": "English/1995.js",
+      "var": "Q_ENGLISH_1995",
+      "count": 100
+    },
+    {
+      "year": "1997",
+      "file": "English/1997.js",
+      "var": "Q_ENGLISH_1997",
+      "count": 100
+    },
+    {
+      "year": "1998",
+      "file": "English/1998.js",
+      "var": "Q_ENGLISH_1998",
+      "count": 100
+    },
+    {
+      "year": "1999",
+      "file": "English/1999.js",
+      "var": "Q_ENGLISH_1999",
+      "count": 100
+    },
+    {
+      "year": "2000",
+      "file": "English/2000.js",
+      "var": "Q_ENGLISH_2000",
+      "count": 100
+    },
+    {
+      "year": "2001",
+      "file": "English/2001.js",
+      "var": "Q_ENGLISH_2001",
+      "count": 100
+    },
+    {
+      "year": "2002",
+      "file": "English/2002.js",
+      "var": "Q_ENGLISH_2002",
+      "count": 100
+    },
+    {
+      "year": "2003",
+      "file": "English/2003.js",
+      "var": "Q_ENGLISH_2003",
+      "count": 100
+    },
+    {
+      "year": "2004",
+      "file": "English/2004.js",
+      "var": "Q_ENGLISH_2004",
+      "count": 100
+    },
+    {
+      "year": "2005",
+      "file": "English/2005.js",
+      "var": "Q_ENGLISH_2005",
+      "count": 100
+    },
+    {
+      "year": "2006",
+      "file": "English/2006.js",
+      "var": "Q_ENGLISH_2006",
+      "count": 100
+    },
+    {
+      "year": "2007",
+      "file": "English/2007.js",
+      "var": "Q_ENGLISH_2007",
+      "count": 100
+    },
+    {
+      "year": "2008",
+      "file": "English/2008.js",
+      "var": "Q_ENGLISH_2008",
+      "count": 100
+    },
+    {
+      "year": "2009",
+      "file": "English/2009.js",
+      "var": "Q_ENGLISH_2009",
+      "count": 100
+    },
+    {
+      "year": "2010",
+      "file": "English/2010.js",
+      "var": "Q_ENGLISH_2010",
+      "count": 100
+    },
+    {
+      "year": "2011",
+      "file": "English/2011.js",
+      "var": "Q_ENGLISH_2011",
+      "count": 100
+    },
+    {
+      "year": "2012",
+      "file": "English/2012.js",
+      "var": "Q_ENGLISH_2012",
+      "count": 100
+    },
+    {
+      "year": "2013",
+      "file": "English/2013.js",
+      "var": "Q_ENGLISH_2013",
+      "count": 100
+    },
+    {
+      "year": "2014",
+      "file": "English/2014.js",
+      "var": "Q_ENGLISH_2014",
+      "count": 100
+    },
+    {
+      "year": "2015",
+      "file": "English/2015.js",
+      "var": "Q_ENGLISH_2015",
+      "count": 100
+    },
+    {
+      "year": "2016",
+      "file": "English/2016.js",
+      "var": "Q_ENGLISH_2016",
+      "count": 100
+    },
+    {
+      "year": "2017 Model",
+      "file": "English/2017_Model.js",
+      "var": "Q_ENGLISH_2017_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2018 Model",
+      "file": "English/2018_Model.js",
+      "var": "Q_ENGLISH_2018_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2019 Model",
+      "file": "English/2019_Model.js",
+      "var": "Q_ENGLISH_2019_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2020 Model",
+      "file": "English/2020_Model.js",
+      "var": "Q_ENGLISH_2020_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2021 Model",
+      "file": "English/2021_Model.js",
+      "var": "Q_ENGLISH_2021_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2022 Model",
+      "file": "English/2022_Model.js",
+      "var": "Q_ENGLISH_2022_MODEL",
+      "count": 60
+    },
+    {
+      "year": "2023 Model I",
+      "file": "English/2023_Model_I.js",
+      "var": "Q_ENGLISH_2023_MODEL_I",
+      "count": 60
+    },
+    {
+      "year": "2023 Model II",
+      "file": "English/2023_Model_II.js",
+      "var": "Q_ENGLISH_2023_MODEL_II",
+      "count": 60
+    },
+    {
+      "year": "2023 Model III",
+      "file": "English/2023_Model_III.js",
+      "var": "Q_ENGLISH_2023_MODEL_III",
+      "count": 60
+    },
+    {
+      "year": "2023 Model IV",
+      "file": "English/2023_Model_IV.js",
+      "var": "Q_ENGLISH_2023_MODEL_IV",
+      "count": 60
+    },
+    {
+      "year": "2024 Model I",
+      "file": "English/2024_Model_I.js",
+      "var": "Q_ENGLISH_2024_MODEL_I",
+      "count": 60
+    },
+    {
+      "year": "2024 Model II",
+      "file": "English/2024_Model_II.js",
+      "var": "Q_ENGLISH_2024_MODEL_II",
+      "count": 60
+    },
+    {
+      "year": "2025 Model I",
+      "file": "English/2025_Model_I.js",
+      "var": "Q_ENGLISH_2025_MODEL_I",
+      "count": 60
+    },
+    {
+      "year": "2025 Model II",
+      "file": "English/2025_Model_II.js",
+      "var": "Q_ENGLISH_2025_MODEL_II",
+      "count": 60
+    }
+  ],
+  "Fine Art": [
+    {
+      "year": "2010",
+      "file": "Fine_Art/2010.js",
+      "var": "Q_FINE_ART_2010",
+      "count": 50
+    },
+    {
+      "year": "2017 Model",
+      "file": "Fine_Art/2017_Model.js",
+      "var": "Q_FINE_ART_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "Fine_Art/2018_Model.js",
+      "var": "Q_FINE_ART_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "Fine_Art/2019_Model.js",
+      "var": "Q_FINE_ART_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "Fine_Art/2020_Model.js",
+      "var": "Q_FINE_ART_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "Fine_Art/2021_Model.js",
+      "var": "Q_FINE_ART_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "Fine_Art/2022_Model.js",
+      "var": "Q_FINE_ART_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "Fine_Art/2023_Model.js",
+      "var": "Q_FINE_ART_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Fine_Art/2024_Model_I.js",
+      "var": "Q_FINE_ART_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Fine_Art/2024_Model_II.js",
+      "var": "Q_FINE_ART_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "Fine_Art/2024_Model_III.js",
+      "var": "Q_FINE_ART_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Fine_Art/2025_Model_I.js",
+      "var": "Q_FINE_ART_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Fine_Art/2025_Model_II.js",
+      "var": "Q_FINE_ART_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "French": [
+    {
+      "year": "2010",
+      "file": "French/2010.js",
+      "var": "Q_FRENCH_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "French/2011.js",
+      "var": "Q_FRENCH_2011",
+      "count": 50
+    },
+    {
+      "year": "2017 Model",
+      "file": "French/2017_Model.js",
+      "var": "Q_FRENCH_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "French/2018_Model.js",
+      "var": "Q_FRENCH_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "French/2019_Model.js",
+      "var": "Q_FRENCH_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "French/2020_Model.js",
+      "var": "Q_FRENCH_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "French/2021_Model.js",
+      "var": "Q_FRENCH_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "French/2022_Model.js",
+      "var": "Q_FRENCH_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "French/2023_Model.js",
+      "var": "Q_FRENCH_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "French/2024_Model_I.js",
+      "var": "Q_FRENCH_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "French/2024_Model_II.js",
+      "var": "Q_FRENCH_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "French/2024_Model_III.js",
+      "var": "Q_FRENCH_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "French/2025_Model_I.js",
+      "var": "Q_FRENCH_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "French/2025_Model_II.js",
+      "var": "Q_FRENCH_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Geography": [
+    {
+      "year": "1992",
+      "file": "Geography/1992.js",
+      "var": "Q_GEOGRAPHY_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Geography/1993.js",
+      "var": "Q_GEOGRAPHY_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Geography/1994.js",
+      "var": "Q_GEOGRAPHY_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Geography/1995.js",
+      "var": "Q_GEOGRAPHY_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Geography/1997.js",
+      "var": "Q_GEOGRAPHY_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Geography/1998.js",
+      "var": "Q_GEOGRAPHY_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Geography/1999.js",
+      "var": "Q_GEOGRAPHY_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Geography/2000.js",
+      "var": "Q_GEOGRAPHY_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Geography/2001.js",
+      "var": "Q_GEOGRAPHY_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Geography/2002.js",
+      "var": "Q_GEOGRAPHY_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Geography/2003.js",
+      "var": "Q_GEOGRAPHY_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Geography/2004.js",
+      "var": "Q_GEOGRAPHY_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Geography/2005.js",
+      "var": "Q_GEOGRAPHY_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Geography/2006.js",
+      "var": "Q_GEOGRAPHY_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Geography/2007.js",
+      "var": "Q_GEOGRAPHY_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Geography/2008.js",
+      "var": "Q_GEOGRAPHY_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Geography/2009.js",
+      "var": "Q_GEOGRAPHY_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Geography/2010.js",
+      "var": "Q_GEOGRAPHY_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Geography/2011.js",
+      "var": "Q_GEOGRAPHY_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Geography/2012.js",
+      "var": "Q_GEOGRAPHY_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Geography/2013.js",
+      "var": "Q_GEOGRAPHY_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Geography/2014.js",
+      "var": "Q_GEOGRAPHY_2014",
+      "count": 50
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Geography/2018_Model_I.js",
+      "var": "Q_GEOGRAPHY_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Geography/2019_Model_I.js",
+      "var": "Q_GEOGRAPHY_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Geography/2019_Model_II.js",
+      "var": "Q_GEOGRAPHY_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Geography/2020_Model_I.js",
+      "var": "Q_GEOGRAPHY_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Geography/2020_Model_II.js",
+      "var": "Q_GEOGRAPHY_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Geography/2021_Model_I.js",
+      "var": "Q_GEOGRAPHY_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Geography/2021_Model_II.js",
+      "var": "Q_GEOGRAPHY_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Geography/2022_Model_I.js",
+      "var": "Q_GEOGRAPHY_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Geography/2022_Model_II.js",
+      "var": "Q_GEOGRAPHY_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Geography/2023_Model_I.js",
+      "var": "Q_GEOGRAPHY_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Geography/2023_Model_II.js",
+      "var": "Q_GEOGRAPHY_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Geography/2024_Model_I.js",
+      "var": "Q_GEOGRAPHY_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Geography/2024_Model_II.js",
+      "var": "Q_GEOGRAPHY_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Geography/2025_Model_I.js",
+      "var": "Q_GEOGRAPHY_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Geography/2025_Model_II.js",
+      "var": "Q_GEOGRAPHY_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Government": [
+    {
+      "year": "1992",
+      "file": "Government/1992.js",
+      "var": "Q_GOVERNMENT_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Government/1993.js",
+      "var": "Q_GOVERNMENT_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Government/1994.js",
+      "var": "Q_GOVERNMENT_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Government/1995.js",
+      "var": "Q_GOVERNMENT_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Government/1997.js",
+      "var": "Q_GOVERNMENT_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Government/1998.js",
+      "var": "Q_GOVERNMENT_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Government/1999.js",
+      "var": "Q_GOVERNMENT_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Government/2000.js",
+      "var": "Q_GOVERNMENT_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Government/2001.js",
+      "var": "Q_GOVERNMENT_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Government/2002.js",
+      "var": "Q_GOVERNMENT_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Government/2003.js",
+      "var": "Q_GOVERNMENT_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Government/2004.js",
+      "var": "Q_GOVERNMENT_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Government/2005.js",
+      "var": "Q_GOVERNMENT_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Government/2006.js",
+      "var": "Q_GOVERNMENT_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Government/2007.js",
+      "var": "Q_GOVERNMENT_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Government/2008.js",
+      "var": "Q_GOVERNMENT_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Government/2009.js",
+      "var": "Q_GOVERNMENT_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Government/2010.js",
+      "var": "Q_GOVERNMENT_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Government/2011.js",
+      "var": "Q_GOVERNMENT_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Government/2012.js",
+      "var": "Q_GOVERNMENT_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Government/2013.js",
+      "var": "Q_GOVERNMENT_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Government/2014.js",
+      "var": "Q_GOVERNMENT_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Government/2015.js",
+      "var": "Q_GOVERNMENT_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Government/2016.js",
+      "var": "Q_GOVERNMENT_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Government/2017_Model_I.js",
+      "var": "Q_GOVERNMENT_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Government/2017_Model_II.js",
+      "var": "Q_GOVERNMENT_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Government/2018_Model_I.js",
+      "var": "Q_GOVERNMENT_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Government/2018_Model_II.js",
+      "var": "Q_GOVERNMENT_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model III",
+      "file": "Government/2018_Model_III.js",
+      "var": "Q_GOVERNMENT_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Government/2019_Model_I.js",
+      "var": "Q_GOVERNMENT_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Government/2019_Model_II.js",
+      "var": "Q_GOVERNMENT_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Government/2020_Model_I.js",
+      "var": "Q_GOVERNMENT_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Government/2020_Model_II.js",
+      "var": "Q_GOVERNMENT_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Government/2021_Model_I.js",
+      "var": "Q_GOVERNMENT_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Government/2021_Model_II.js",
+      "var": "Q_GOVERNMENT_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Government/2022_Model_I.js",
+      "var": "Q_GOVERNMENT_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Government/2022_Model_II.js",
+      "var": "Q_GOVERNMENT_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Government/2023_Model_I.js",
+      "var": "Q_GOVERNMENT_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Government/2023_Model_II.js",
+      "var": "Q_GOVERNMENT_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Government/2024_Model_I.js",
+      "var": "Q_GOVERNMENT_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Government/2024_Model_II.js",
+      "var": "Q_GOVERNMENT_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Government/2025_Model_I.js",
+      "var": "Q_GOVERNMENT_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Government/2025_Model_II.js",
+      "var": "Q_GOVERNMENT_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Hausa": [
+    {
+      "year": "2010",
+      "file": "Hausa/2010.js",
+      "var": "Q_HAUSA_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Hausa/2011.js",
+      "var": "Q_HAUSA_2011",
+      "count": 50
+    },
+    {
+      "year": "2017 Model",
+      "file": "Hausa/2017_Model.js",
+      "var": "Q_HAUSA_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "Hausa/2018_Model.js",
+      "var": "Q_HAUSA_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "Hausa/2019_Model.js",
+      "var": "Q_HAUSA_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "Hausa/2020_Model.js",
+      "var": "Q_HAUSA_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "Hausa/2021_Model.js",
+      "var": "Q_HAUSA_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "Hausa/2022_Model.js",
+      "var": "Q_HAUSA_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "Hausa/2023_Model.js",
+      "var": "Q_HAUSA_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Hausa/2024_Model_I.js",
+      "var": "Q_HAUSA_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Hausa/2024_Model_II.js",
+      "var": "Q_HAUSA_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "Hausa/2024_Model_III.js",
+      "var": "Q_HAUSA_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Hausa/2025_Model_I.js",
+      "var": "Q_HAUSA_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Hausa/2025_Model_II.js",
+      "var": "Q_HAUSA_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "History": [
+    {
+      "year": "2002",
+      "file": "History/2002.js",
+      "var": "Q_HISTORY_2002",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "History/2008.js",
+      "var": "Q_HISTORY_2008",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "History/2010.js",
+      "var": "Q_HISTORY_2010",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "History/2012.js",
+      "var": "Q_HISTORY_2012",
+      "count": 50
+    },
+    {
+      "year": "2019 Model I",
+      "file": "History/2019_Model_I.js",
+      "var": "Q_HISTORY_2019_MODEL_I",
+      "count": 44
+    },
+    {
+      "year": "2019 Model II",
+      "file": "History/2019_Model_II.js",
+      "var": "Q_HISTORY_2019_MODEL_II",
+      "count": 44
+    },
+    {
+      "year": "2020 Model I",
+      "file": "History/2020_Model_I.js",
+      "var": "Q_HISTORY_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "History/2020_Model_II.js",
+      "var": "Q_HISTORY_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "History/2021_Model_I.js",
+      "var": "Q_HISTORY_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "History/2021_Model_II.js",
+      "var": "Q_HISTORY_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "History/2022_Model_I.js",
+      "var": "Q_HISTORY_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "History/2022_Model_II.js",
+      "var": "Q_HISTORY_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "History/2023_Model_I.js",
+      "var": "Q_HISTORY_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "History/2023_Model_II.js",
+      "var": "Q_HISTORY_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "History/2024_Model_I.js",
+      "var": "Q_HISTORY_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "History/2024_Model_II.js",
+      "var": "Q_HISTORY_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "History/2025_Model_I.js",
+      "var": "Q_HISTORY_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "History/2025_Model_II.js",
+      "var": "Q_HISTORY_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Home Economics": [
+    {
+      "year": "2017 Model",
+      "file": "Home_Economics/2017_Model.js",
+      "var": "Q_HOME_ECONOMICS_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "Home_Economics/2018_Model.js",
+      "var": "Q_HOME_ECONOMICS_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "Home_Economics/2019_Model.js",
+      "var": "Q_HOME_ECONOMICS_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "Home_Economics/2020_Model.js",
+      "var": "Q_HOME_ECONOMICS_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "Home_Economics/2021_Model.js",
+      "var": "Q_HOME_ECONOMICS_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "Home_Economics/2022_Model.js",
+      "var": "Q_HOME_ECONOMICS_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "Home_Economics/2023_Model.js",
+      "var": "Q_HOME_ECONOMICS_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Home_Economics/2024_Model_I.js",
+      "var": "Q_HOME_ECONOMICS_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Home_Economics/2024_Model_II.js",
+      "var": "Q_HOME_ECONOMICS_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "Home_Economics/2024_Model_III.js",
+      "var": "Q_HOME_ECONOMICS_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Home_Economics/2025_Model_I.js",
+      "var": "Q_HOME_ECONOMICS_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Home_Economics/2025_Model_II.js",
+      "var": "Q_HOME_ECONOMICS_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "IRK": [
+    {
+      "year": "1991",
+      "file": "IRK/1991.js",
+      "var": "Q_IRK_1991",
+      "count": 50
+    },
+    {
+      "year": "1992",
+      "file": "IRK/1992.js",
+      "var": "Q_IRK_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "IRK/1993.js",
+      "var": "Q_IRK_1993",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "IRK/1995.js",
+      "var": "Q_IRK_1995",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "IRK/2001.js",
+      "var": "Q_IRK_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "IRK/2002.js",
+      "var": "Q_IRK_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "IRK/2003.js",
+      "var": "Q_IRK_2003",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "IRK/2008.js",
+      "var": "Q_IRK_2008",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "IRK/2010.js",
+      "var": "Q_IRK_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "IRK/2011.js",
+      "var": "Q_IRK_2011",
+      "count": 50
+    },
+    {
+      "year": "2012 Model",
+      "file": "IRK/2012_Model.js",
+      "var": "Q_IRK_2012_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2013 Model",
+      "file": "IRK/2013_Model.js",
+      "var": "Q_IRK_2013_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2014 Model",
+      "file": "IRK/2014_Model.js",
+      "var": "Q_IRK_2014_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2015 Model",
+      "file": "IRK/2015_Model.js",
+      "var": "Q_IRK_2015_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2016 Model",
+      "file": "IRK/2016_Model.js",
+      "var": "Q_IRK_2016_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2017 Model",
+      "file": "IRK/2017_Model.js",
+      "var": "Q_IRK_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "IRK/2018_Model.js",
+      "var": "Q_IRK_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "IRK/2019_Model.js",
+      "var": "Q_IRK_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "IRK/2020_Model.js",
+      "var": "Q_IRK_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "IRK/2021_Model_I.js",
+      "var": "Q_IRK_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "IRK/2021_Model_II.js",
+      "var": "Q_IRK_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "IRK/2022_Model_I.js",
+      "var": "Q_IRK_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "IRK/2022_Model_II.js",
+      "var": "Q_IRK_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "IRK/2023_Model_I.js",
+      "var": "Q_IRK_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "IRK/2023_Model_II.js",
+      "var": "Q_IRK_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "IRK/2024_Model_I.js",
+      "var": "Q_IRK_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "IRK/2024_Model_II.js",
+      "var": "Q_IRK_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "IRK/2025_Model_I.js",
+      "var": "Q_IRK_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "IRK/2025_Model_II.js",
+      "var": "Q_IRK_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Igbo": [
+    {
+      "year": "2010",
+      "file": "Igbo/2010.js",
+      "var": "Q_IGBO_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Igbo/2011.js",
+      "var": "Q_IGBO_2011",
+      "count": 50
+    },
+    {
+      "year": "2017 Model",
+      "file": "Igbo/2017_Model.js",
+      "var": "Q_IGBO_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "Igbo/2018_Model.js",
+      "var": "Q_IGBO_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "Igbo/2019_Model.js",
+      "var": "Q_IGBO_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "Igbo/2020_Model.js",
+      "var": "Q_IGBO_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "Igbo/2021_Model.js",
+      "var": "Q_IGBO_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "Igbo/2022_Model.js",
+      "var": "Q_IGBO_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "Igbo/2023_Model.js",
+      "var": "Q_IGBO_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Igbo/2024_Model_I.js",
+      "var": "Q_IGBO_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Igbo/2024_Model_II.js",
+      "var": "Q_IGBO_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "Igbo/2024_Model_III.js",
+      "var": "Q_IGBO_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Igbo/2025_Model_I.js",
+      "var": "Q_IGBO_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Igbo/2025_Model_II.js",
+      "var": "Q_IGBO_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Literature": [
+    {
+      "year": "2000",
+      "file": "Literature/2000.js",
+      "var": "Q_LITERATURE_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Literature/2001.js",
+      "var": "Q_LITERATURE_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Literature/2002.js",
+      "var": "Q_LITERATURE_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Literature/2003.js",
+      "var": "Q_LITERATURE_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Literature/2004.js",
+      "var": "Q_LITERATURE_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Literature/2005.js",
+      "var": "Q_LITERATURE_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Literature/2006.js",
+      "var": "Q_LITERATURE_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Literature/2007.js",
+      "var": "Q_LITERATURE_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Literature/2008.js",
+      "var": "Q_LITERATURE_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Literature/2009.js",
+      "var": "Q_LITERATURE_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Literature/2010.js",
+      "var": "Q_LITERATURE_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Literature/2011.js",
+      "var": "Q_LITERATURE_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Literature/2012.js",
+      "var": "Q_LITERATURE_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Literature/2013.js",
+      "var": "Q_LITERATURE_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Literature/2014.js",
+      "var": "Q_LITERATURE_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Literature/2015.js",
+      "var": "Q_LITERATURE_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Literature/2016.js",
+      "var": "Q_LITERATURE_2016",
+      "count": 50
+    },
+    {
+      "year": "2025 Model 1",
+      "file": "Literature/2025_Model_1.js",
+      "var": "Q_LITERATURE_2025_MODEL_1",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 10",
+      "file": "Literature/2025_Model_10.js",
+      "var": "Q_LITERATURE_2025_MODEL_10",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 11",
+      "file": "Literature/2025_Model_11.js",
+      "var": "Q_LITERATURE_2025_MODEL_11",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 12",
+      "file": "Literature/2025_Model_12.js",
+      "var": "Q_LITERATURE_2025_MODEL_12",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 13",
+      "file": "Literature/2025_Model_13.js",
+      "var": "Q_LITERATURE_2025_MODEL_13",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 14",
+      "file": "Literature/2025_Model_14.js",
+      "var": "Q_LITERATURE_2025_MODEL_14",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 2",
+      "file": "Literature/2025_Model_2.js",
+      "var": "Q_LITERATURE_2025_MODEL_2",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 3",
+      "file": "Literature/2025_Model_3.js",
+      "var": "Q_LITERATURE_2025_MODEL_3",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 4",
+      "file": "Literature/2025_Model_4.js",
+      "var": "Q_LITERATURE_2025_MODEL_4",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 5",
+      "file": "Literature/2025_Model_5.js",
+      "var": "Q_LITERATURE_2025_MODEL_5",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 6",
+      "file": "Literature/2025_Model_6.js",
+      "var": "Q_LITERATURE_2025_MODEL_6",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 7",
+      "file": "Literature/2025_Model_7.js",
+      "var": "Q_LITERATURE_2025_MODEL_7",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 8",
+      "file": "Literature/2025_Model_8.js",
+      "var": "Q_LITERATURE_2025_MODEL_8",
+      "count": 40
+    },
+    {
+      "year": "2025 Model 9",
+      "file": "Literature/2025_Model_9.js",
+      "var": "Q_LITERATURE_2025_MODEL_9",
+      "count": 40
+    }
+  ],
+  "Literature Textbooks": [
+    {
+      "year": "2025",
+      "file": "Literature_Textbooks/2025.js",
+      "var": "Q_LITERATURE_TEXTBOOKS_2025",
+      "count": 510
+    }
+  ],
+  "Mathematics": [
+    {
+      "year": "1989",
+      "file": "Mathematics/1989.js",
+      "var": "Q_MATHEMATICS_1989",
+      "count": 45
+    },
+    {
+      "year": "1990",
+      "file": "Mathematics/1990.js",
+      "var": "Q_MATHEMATICS_1990",
+      "count": 44
+    },
+    {
+      "year": "1991",
+      "file": "Mathematics/1991.js",
+      "var": "Q_MATHEMATICS_1991",
+      "count": 48
+    },
+    {
+      "year": "1992",
+      "file": "Mathematics/1992.js",
+      "var": "Q_MATHEMATICS_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Mathematics/1993.js",
+      "var": "Q_MATHEMATICS_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Mathematics/1994.js",
+      "var": "Q_MATHEMATICS_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Mathematics/1995.js",
+      "var": "Q_MATHEMATICS_1995",
+      "count": 50
+    },
+    {
+      "year": "1997",
+      "file": "Mathematics/1997.js",
+      "var": "Q_MATHEMATICS_1997",
+      "count": 50
+    },
+    {
+      "year": "1998",
+      "file": "Mathematics/1998.js",
+      "var": "Q_MATHEMATICS_1998",
+      "count": 50
+    },
+    {
+      "year": "1999",
+      "file": "Mathematics/1999.js",
+      "var": "Q_MATHEMATICS_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Mathematics/2000.js",
+      "var": "Q_MATHEMATICS_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Mathematics/2001.js",
+      "var": "Q_MATHEMATICS_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Mathematics/2002.js",
+      "var": "Q_MATHEMATICS_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Mathematics/2003.js",
+      "var": "Q_MATHEMATICS_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Mathematics/2004.js",
+      "var": "Q_MATHEMATICS_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Mathematics/2005.js",
+      "var": "Q_MATHEMATICS_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Mathematics/2006.js",
+      "var": "Q_MATHEMATICS_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Mathematics/2007.js",
+      "var": "Q_MATHEMATICS_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Mathematics/2008.js",
+      "var": "Q_MATHEMATICS_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Mathematics/2009.js",
+      "var": "Q_MATHEMATICS_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Mathematics/2010.js",
+      "var": "Q_MATHEMATICS_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Mathematics/2011.js",
+      "var": "Q_MATHEMATICS_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Mathematics/2012.js",
+      "var": "Q_MATHEMATICS_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Mathematics/2013.js",
+      "var": "Q_MATHEMATICS_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Mathematics/2014.js",
+      "var": "Q_MATHEMATICS_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Mathematics/2015.js",
+      "var": "Q_MATHEMATICS_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Mathematics/2016.js",
+      "var": "Q_MATHEMATICS_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Mathematics/2017_Model_I.js",
+      "var": "Q_MATHEMATICS_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Mathematics/2017_Model_II.js",
+      "var": "Q_MATHEMATICS_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Mathematics/2018_Model_I.js",
+      "var": "Q_MATHEMATICS_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Mathematics/2018_Model_II.js",
+      "var": "Q_MATHEMATICS_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model III",
+      "file": "Mathematics/2018_Model_III.js",
+      "var": "Q_MATHEMATICS_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Mathematics/2019_Model_I.js",
+      "var": "Q_MATHEMATICS_2019_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Mathematics/2019_Model_II.js",
+      "var": "Q_MATHEMATICS_2019_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Mathematics/2020_Model_I.js",
+      "var": "Q_MATHEMATICS_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Mathematics/2020_Model_II.js",
+      "var": "Q_MATHEMATICS_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Mathematics/2021_Model_I.js",
+      "var": "Q_MATHEMATICS_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Mathematics/2021_Model_II.js",
+      "var": "Q_MATHEMATICS_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Mathematics/2022_Model_I.js",
+      "var": "Q_MATHEMATICS_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Mathematics/2022_Model_II.js",
+      "var": "Q_MATHEMATICS_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model III",
+      "file": "Mathematics/2022_Model_III.js",
+      "var": "Q_MATHEMATICS_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Mathematics/2023_Model_I.js",
+      "var": "Q_MATHEMATICS_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Mathematics/2023_Model_II.js",
+      "var": "Q_MATHEMATICS_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model III",
+      "file": "Mathematics/2023_Model_III.js",
+      "var": "Q_MATHEMATICS_2023_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Mathematics/2024_Model_I.js",
+      "var": "Q_MATHEMATICS_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Mathematics/2024_Model_II.js",
+      "var": "Q_MATHEMATICS_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Mathematics/2025_Model_I.js",
+      "var": "Q_MATHEMATICS_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Mathematics/2025_Model_II.js",
+      "var": "Q_MATHEMATICS_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Music": [
+    {
+      "year": "2011",
+      "file": "Music/2011.js",
+      "var": "Q_MUSIC_2011",
+      "count": 50
+    }
+  ],
+  "PHE": [
+    {
+      "year": "2022 Model I",
+      "file": "PHE/2022_Model_I.js",
+      "var": "Q_PHE_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "PHE/2022_Model_II.js",
+      "var": "Q_PHE_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model III",
+      "file": "PHE/2022_Model_III.js",
+      "var": "Q_PHE_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2022 Model IV",
+      "file": "PHE/2022_Model_IV.js",
+      "var": "Q_PHE_2022_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2022 Model V",
+      "file": "PHE/2022_Model_V.js",
+      "var": "Q_PHE_2022_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "PHE/2023_Model_I.js",
+      "var": "Q_PHE_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "PHE/2023_Model_II.js",
+      "var": "Q_PHE_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "PHE/2024_Model_I.js",
+      "var": "Q_PHE_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "PHE/2024_Model_II.js",
+      "var": "Q_PHE_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "PHE/2025_Model_I.js",
+      "var": "Q_PHE_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "PHE/2025_Model_II.js",
+      "var": "Q_PHE_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "Physics": [
+    {
+      "year": "1989",
+      "file": "Physics/1989.js",
+      "var": "Q_PHYSICS_1989",
+      "count": 45
+    },
+    {
+      "year": "1990",
+      "file": "Physics/1990.js",
+      "var": "Q_PHYSICS_1990",
+      "count": 46
+    },
+    {
+      "year": "1991",
+      "file": "Physics/1991.js",
+      "var": "Q_PHYSICS_1991",
+      "count": 49
+    },
+    {
+      "year": "1992",
+      "file": "Physics/1992.js",
+      "var": "Q_PHYSICS_1992",
+      "count": 50
+    },
+    {
+      "year": "1993",
+      "file": "Physics/1993.js",
+      "var": "Q_PHYSICS_1993",
+      "count": 50
+    },
+    {
+      "year": "1994",
+      "file": "Physics/1994.js",
+      "var": "Q_PHYSICS_1994",
+      "count": 50
+    },
+    {
+      "year": "1995",
+      "file": "Physics/1995.js",
+      "var": "Q_PHYSICS_1995",
+      "count": 49
+    },
+    {
+      "year": "1997",
+      "file": "Physics/1997.js",
+      "var": "Q_PHYSICS_1997",
+      "count": 49
+    },
+    {
+      "year": "1998",
+      "file": "Physics/1998.js",
+      "var": "Q_PHYSICS_1998",
+      "count": 49
+    },
+    {
+      "year": "1999",
+      "file": "Physics/1999.js",
+      "var": "Q_PHYSICS_1999",
+      "count": 50
+    },
+    {
+      "year": "2000",
+      "file": "Physics/2000.js",
+      "var": "Q_PHYSICS_2000",
+      "count": 50
+    },
+    {
+      "year": "2001",
+      "file": "Physics/2001.js",
+      "var": "Q_PHYSICS_2001",
+      "count": 50
+    },
+    {
+      "year": "2002",
+      "file": "Physics/2002.js",
+      "var": "Q_PHYSICS_2002",
+      "count": 50
+    },
+    {
+      "year": "2003",
+      "file": "Physics/2003.js",
+      "var": "Q_PHYSICS_2003",
+      "count": 50
+    },
+    {
+      "year": "2004",
+      "file": "Physics/2004.js",
+      "var": "Q_PHYSICS_2004",
+      "count": 50
+    },
+    {
+      "year": "2005",
+      "file": "Physics/2005.js",
+      "var": "Q_PHYSICS_2005",
+      "count": 50
+    },
+    {
+      "year": "2006",
+      "file": "Physics/2006.js",
+      "var": "Q_PHYSICS_2006",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Physics/2007.js",
+      "var": "Q_PHYSICS_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Physics/2008.js",
+      "var": "Q_PHYSICS_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Physics/2009.js",
+      "var": "Q_PHYSICS_2009",
+      "count": 50
+    },
+    {
+      "year": "2010",
+      "file": "Physics/2010.js",
+      "var": "Q_PHYSICS_2010",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Physics/2011.js",
+      "var": "Q_PHYSICS_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Physics/2012.js",
+      "var": "Q_PHYSICS_2012",
+      "count": 50
+    },
+    {
+      "year": "2013",
+      "file": "Physics/2013.js",
+      "var": "Q_PHYSICS_2013",
+      "count": 50
+    },
+    {
+      "year": "2014",
+      "file": "Physics/2014.js",
+      "var": "Q_PHYSICS_2014",
+      "count": 50
+    },
+    {
+      "year": "2015",
+      "file": "Physics/2015.js",
+      "var": "Q_PHYSICS_2015",
+      "count": 50
+    },
+    {
+      "year": "2016",
+      "file": "Physics/2016.js",
+      "var": "Q_PHYSICS_2016",
+      "count": 50
+    },
+    {
+      "year": "2017 Model I",
+      "file": "Physics/2017_Model_I.js",
+      "var": "Q_PHYSICS_2017_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2017 Model II",
+      "file": "Physics/2017_Model_II.js",
+      "var": "Q_PHYSICS_2017_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model I",
+      "file": "Physics/2018_Model_I.js",
+      "var": "Q_PHYSICS_2018_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2018 Model II",
+      "file": "Physics/2018_Model_II.js",
+      "var": "Q_PHYSICS_2018_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2018 Model III",
+      "file": "Physics/2018_Model_III.js",
+      "var": "Q_PHYSICS_2018_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2019 Model I",
+      "file": "Physics/2019_Model_I.js",
+      "var": "Q_PHYSICS_2019_MODEL_I",
+      "count": 63
+    },
+    {
+      "year": "2019 Model II",
+      "file": "Physics/2019_Model_II.js",
+      "var": "Q_PHYSICS_2019_MODEL_II",
+      "count": 63
+    },
+    {
+      "year": "2020 Model I",
+      "file": "Physics/2020_Model_I.js",
+      "var": "Q_PHYSICS_2020_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2020 Model II",
+      "file": "Physics/2020_Model_II.js",
+      "var": "Q_PHYSICS_2020_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2021 Model I",
+      "file": "Physics/2021_Model_I.js",
+      "var": "Q_PHYSICS_2021_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2021 Model II",
+      "file": "Physics/2021_Model_II.js",
+      "var": "Q_PHYSICS_2021_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model I",
+      "file": "Physics/2022_Model_I.js",
+      "var": "Q_PHYSICS_2022_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2022 Model II",
+      "file": "Physics/2022_Model_II.js",
+      "var": "Q_PHYSICS_2022_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2022 Model III",
+      "file": "Physics/2022_Model_III.js",
+      "var": "Q_PHYSICS_2022_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2022 Model IV",
+      "file": "Physics/2022_Model_IV.js",
+      "var": "Q_PHYSICS_2022_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2022 Model V",
+      "file": "Physics/2022_Model_V.js",
+      "var": "Q_PHYSICS_2022_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2022 Model VI",
+      "file": "Physics/2022_Model_VI.js",
+      "var": "Q_PHYSICS_2022_MODEL_VI",
+      "count": 40
+    },
+    {
+      "year": "2023 Model I",
+      "file": "Physics/2023_Model_I.js",
+      "var": "Q_PHYSICS_2023_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2023 Model II",
+      "file": "Physics/2023_Model_II.js",
+      "var": "Q_PHYSICS_2023_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2023 Model III",
+      "file": "Physics/2023_Model_III.js",
+      "var": "Q_PHYSICS_2023_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2023 Model IV",
+      "file": "Physics/2023_Model_IV.js",
+      "var": "Q_PHYSICS_2023_MODEL_IV",
+      "count": 40
+    },
+    {
+      "year": "2023 Model V",
+      "file": "Physics/2023_Model_V.js",
+      "var": "Q_PHYSICS_2023_MODEL_V",
+      "count": 40
+    },
+    {
+      "year": "2023 Model VI",
+      "file": "Physics/2023_Model_VI.js",
+      "var": "Q_PHYSICS_2023_MODEL_VI",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Physics/2024_Model_I.js",
+      "var": "Q_PHYSICS_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Physics/2024_Model_II.js",
+      "var": "Q_PHYSICS_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Physics/2025_Model_I.js",
+      "var": "Q_PHYSICS_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 Model II",
+      "file": "Physics/2025_Model_II.js",
+      "var": "Q_PHYSICS_2025_MODEL_II",
+      "count": 40
+    }
+  ],
+  "The Lekki Headmaster": [
+    {
+      "year": "2025",
+      "file": "The_Lekki_Headmaster/2025.js",
+      "var": "Q_THE_LEKKI_HEADMASTER_2025",
+      "count": 400
+    }
+  ],
+  "Yoruba": [
+    {
+      "year": "2002",
+      "file": "Yoruba/2002.js",
+      "var": "Q_YORUBA_2002",
+      "count": 50
+    },
+    {
+      "year": "2007",
+      "file": "Yoruba/2007.js",
+      "var": "Q_YORUBA_2007",
+      "count": 50
+    },
+    {
+      "year": "2008",
+      "file": "Yoruba/2008.js",
+      "var": "Q_YORUBA_2008",
+      "count": 50
+    },
+    {
+      "year": "2009",
+      "file": "Yoruba/2009.js",
+      "var": "Q_YORUBA_2009",
+      "count": 50
+    },
+    {
+      "year": "2011",
+      "file": "Yoruba/2011.js",
+      "var": "Q_YORUBA_2011",
+      "count": 50
+    },
+    {
+      "year": "2012",
+      "file": "Yoruba/2012.js",
+      "var": "Q_YORUBA_2012",
+      "count": 50
+    },
+    {
+      "year": "2017 Model",
+      "file": "Yoruba/2017_Model.js",
+      "var": "Q_YORUBA_2017_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2018 Model",
+      "file": "Yoruba/2018_Model.js",
+      "var": "Q_YORUBA_2018_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2019 Model",
+      "file": "Yoruba/2019_Model.js",
+      "var": "Q_YORUBA_2019_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2020 Model",
+      "file": "Yoruba/2020_Model.js",
+      "var": "Q_YORUBA_2020_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2021 Model",
+      "file": "Yoruba/2021_Model.js",
+      "var": "Q_YORUBA_2021_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2022 Model",
+      "file": "Yoruba/2022_Model.js",
+      "var": "Q_YORUBA_2022_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2023 Model",
+      "file": "Yoruba/2023_Model.js",
+      "var": "Q_YORUBA_2023_MODEL",
+      "count": 40
+    },
+    {
+      "year": "2024 Model I",
+      "file": "Yoruba/2024_Model_I.js",
+      "var": "Q_YORUBA_2024_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2024 Model II",
+      "file": "Yoruba/2024_Model_II.js",
+      "var": "Q_YORUBA_2024_MODEL_II",
+      "count": 40
+    },
+    {
+      "year": "2024 Model III",
+      "file": "Yoruba/2024_Model_III.js",
+      "var": "Q_YORUBA_2024_MODEL_III",
+      "count": 40
+    },
+    {
+      "year": "2025 Model I",
+      "file": "Yoruba/2025_Model_I.js",
+      "var": "Q_YORUBA_2025_MODEL_I",
+      "count": 40
+    },
+    {
+      "year": "2025 model II",
+      "file": "Yoruba/2025_model_II.js",
+      "var": "Q_YORUBA_2025_MODEL_II",
+      "count": 40
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "year": "1994",
+    "file": "Accounts/1994.js",
+    "var": "Q_ACCOUNTS_1994",
+    "count": 50
+  },
+  {
+    "year": "1995",
+    "file": "Accounts/1995.js",
+    "var": "Q_ACCOUNTS_1995",
+    "count": 50
+  },
+  {
+    "year": "1997",
+    "file": "Accounts/1997.js",
+    "var": "Q_ACCOUNTS_1997",
+    "count": 50
+  },
+  {
+    "year": "1998",
+    "file": "Accounts/1998.js",
+    "var": "Q_ACCOUNTS_1998",
+    "count": 50
+  },
+  {
+    "year": "1999",
+    "file": "Accounts/1999.js",
+    "var": "Q_ACCOUNTS_1999",
+    "count": 50
+  },
+  {
+    "year": "2000",
+    "file": "Accounts/2000.js",
+    "var": "Q_ACCOUNTS_2000",
+    "count": 50
+  },
+  {
+    "year": "2001",
+    "file": "Accounts/2001.js",
+    "var": "Q_ACCOUNTS_2001",
+    "count": 50
+  },
+  {
+    "year": "2002",
+    "file": "Accounts/2002.js",
+    "var": "Q_ACCOUNTS_2002",
+    "count": 50
+  },
+  {
+    "year": "2003",
+    "file": "Accounts/2003.js",
+    "var": "Q_ACCOUNTS_2003",
+    "count": 50
+  },
+  {
+    "year": "2004",
+    "file": "Accounts/2004.js",
+    "var": "Q_ACCOUNTS_2004",
+    "count": 50
+  },
+  {
+    "year": "2005",
+    "file": "Accounts/2005.js",
+    "var": "Q_ACCOUNTS_2005",
+    "count": 50
+  },
+  {
+    "year": "2006",
+    "file": "Accounts/2006.js",
+    "var": "Q_ACCOUNTS_2006",
+    "count": 50
+  },
+  {
+    "year": "2007",
+    "file": "Accounts/2007.js",
+    "var": "Q_ACCOUNTS_2007",
+    "count": 50
+  },
+  {
+    "year": "2008",
+    "file": "Accounts/2008.js",
+    "var": "Q_ACCOUNTS_2008",
+    "count": 50
+  },
+  {
+    "year": "2009",
+    "file": "Accounts/2009.js",
+    "var": "Q_ACCOUNTS_2009",
+    "count": 50
+  },
+  {
+    "year": "2010",
+    "file": "Accounts/2010.js",
+    "var": "Q_ACCOUNTS_2010",
+    "count": 50
+  },
+  {
+    "year": "2011",
+    "file": "Accounts/2011.js",
+    "var": "Q_ACCOUNTS_2011",
+    "count": 50
+  },
+  {
+    "year": "2012",
+    "file": "Accounts/2012.js",
+    "var": "Q_ACCOUNTS_2012",
+    "count": 50
+  },
+  {
+    "year": "2013",
+    "file": "Accounts/2013.js",
+    "var": "Q_ACCOUNTS_2013",
+    "count": 50
+  },
+  {
+    "year": "2014",
+    "file": "Accounts/2014.js",
+    "var": "Q_ACCOUNTS_2014",
+    "count": 50
+  },
+  {
+    "year": "2015",
+    "file": "Accounts/2015.js",
+    "var": "Q_ACCOUNTS_2015",
+    "count": 50
+  },
+  {
+    "year": "2016",
+    "file": "Accounts/2016.js",
+    "var": "Q_ACCOUNTS_2016",
+    "count": 50
+  },
+  {
+    "year": "2017 Model I",
+    "file": "Accounts/2017_Model_I.js",
+    "var": "Q_ACCOUNTS_2017_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2017 Model II",
+    "file": "Accounts/2017_Model_II.js",
+    "var": "Q_ACCOUNTS_2017_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2018 Model I",
+    "file": "Accounts/2018_Model_I.js",
+    "var": "Q_ACCOUNTS_2018_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2018 Model II",
+    "file": "Accounts/2018_Model_II.js",
+    "var": "Q_ACCOUNTS_2018_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2019 Model I",
+    "file": "Accounts/2019_Model_I.js",
+    "var": "Q_ACCOUNTS_2019_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2019 Model II",
+    "file": "Accounts/2019_Model_II.js",
+    "var": "Q_ACCOUNTS_2019_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2020 Model I",
+    "file": "Accounts/2020_Model_I.js",
+    "var": "Q_ACCOUNTS_2020_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2020 Model II",
+    "file": "Accounts/2020_Model_II.js",
+    "var": "Q_ACCOUNTS_2020_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2021 Model I",
+    "file": "Accounts/2021_Model_I.js",
+    "var": "Q_ACCOUNTS_2021_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2021 Model II",
+    "file": "Accounts/2021_Model_II.js",
+    "var": "Q_ACCOUNTS_2021_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2022 Model I",
+    "file": "Accounts/2022_Model_I.js",
+    "var": "Q_ACCOUNTS_2022_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2022 Model II",
+    "file": "Accounts/2022_Model_II.js",
+    "var": "Q_ACCOUNTS_2022_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2023 Model I",
+    "file": "Accounts/2023_Model_I.js",
+    "var": "Q_ACCOUNTS_2023_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2023 Model II",
+    "file": "Accounts/2023_Model_II.js",
+    "var": "Q_ACCOUNTS_2023_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2024 Model I",
+    "file": "Accounts/2024_Model_I.js",
+    "var": "Q_ACCOUNTS_2024_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2024 Model II",
+    "file": "Accounts/2024_Model_II.js",
+    "var": "Q_ACCOUNTS_2024_MODEL_II",
+    "count": 40
+  },
+  {
+    "year": "2025 Model I",
+    "file": "Accounts/2025_Model_I.js",
+    "var": "Q_ACCOUNTS_2025_MODEL_I",
+    "count": 40
+  },
+  {
+    "year": "2025 Model II",
+    "file": "Accounts/2025_Model_II.js",
+    "var": "Q_ACCOUNTS_2025_MODEL_II",
+    "count": 40
+  }
+]
